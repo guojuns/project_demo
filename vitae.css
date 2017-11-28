@@ -294,16 +294,16 @@ position: absolute;
     /* margin-right: 84rem; */
     margin-left: -2.5rem;
     width: 5rem;
-    height: 5rem;
+    height: 7rem;
     /* background: red; */
     background: #fff;
-   /* opacity: 0.5;*/
+    opacity: 0.5;
 }
 .exprience1{
   top:0.2rem;
 }
 .exprience2{
-  top:5.5rem;
+  top:0.5rem;
 }
 /*page5*/
 .phoneborder{
